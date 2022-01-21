@@ -2,7 +2,7 @@
 
 
 -- jar plugin
- 
+ ```
 <plugin>
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-maven-plugin</artifactId>
@@ -15,21 +15,23 @@
   </execution>
   </executions>
 </plugin>
-
+```
 -- header
 
+```
   <dependency>
       <groupId>io.quarkus</groupId>
       <artifactId>quarkus-reactive-routes</artifactId>
   </dependency>
-  
+```  
   
   - @Consumes(MediaType.APPLICATION_JSON)
   
+  ```
      <dependency>
       <groupId>io.quarkus</groupId>
       <artifactId>quarkus-resteasy-jsonb</artifactId>
     </dependency>
-    
-    
+
+```
     
