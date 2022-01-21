@@ -1,7 +1,7 @@
 # Quarkus
 
 
--- jar plugin
+**jar plugin**
  ```
 <plugin>
   <groupId>io.quarkus</groupId>
@@ -16,7 +16,7 @@
   </executions>
 </plugin>
 ```
--- header
+**header**
 
 ```
   <dependency>
@@ -25,7 +25,8 @@
   </dependency>
 ```  
   
-  - @Consumes(MediaType.APPLICATION_JSON)
+  **MediaType.APPLICATION_JSON**
+  
   
   ```
      <dependency>
