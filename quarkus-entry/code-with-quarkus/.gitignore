@@ -4,6 +4,22 @@ pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
 release.properties
+.mvn
+.mvn/wrapper
+HELP.md
+oknreadme.txt
+students.iml
+mvnw
+.gitignore
+.mvn/wrapper
+mvnw.cmd
+.dockerignore
+target/
+.mvn/
+.idea
+!**/src/main/**/target/
+!**/src/test/**/target/
+
 
 # Eclipse
 .project
