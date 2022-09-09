@@ -35,4 +35,4 @@
     </dependency>
 
 ```
-    
+    Quarkus is another framework with a similar approach as the Spring mentioned above Boot, but with an additional promise of delivering smaller artifacts with fast boot time, better resource utilization, and efficiency. It's optimized for cloud, serverless, and containerized environments.
