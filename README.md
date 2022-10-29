@@ -1,6 +1,7 @@
 #### Quarkus
 
-
+Quarkus was created to enable Java developers to create applications for a modern, cloud-native world. Quarkus is a Kubernetes-native Java framework
+Both Quarkus and Spring Boot offer a comprehensive stack of technologies and tools to build modern Java applications. Spring Boot is a more mature framework traditionally used in both monolithic and microservice architectures. Quarkus is more used in cloud and serverless contexts
 
 
 **jar plugin**
